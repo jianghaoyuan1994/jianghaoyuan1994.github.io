@@ -19,7 +19,7 @@ redirect_from:
 
 Welcome to Haoyuan Jiang's Personal Homepage!
 
-Now, I am a senior algorithm engineer at Baidu Inc. Before that, i was a researcher at Sensetime. My research interest includes **Reinforcement Learning, General Agents and Embodied AI**, driven by a desire to contribute to building AGI algorithms. I was worked closely with <a href='https://bonaldli.github.io'>Prof. Ziyue Li</a> at the University of Cologne and Principal Researcher Hangyu Mao at Sensetime Research.
+Now, I am a senior algorithm engineer at Baidu Inc. Before that, i was a researcher at Sensetime. My research interest includes **Reinforcement Learning, General Agents and Embodied AI**, driven by a desire to contribute to building AGI algorithms. I was worked closely with <a href='https://bonaldli.github.io'>Prof. Ziyue Li</a> at the University of Cologne and Principal Researcher <a href='https://dblp.org/pid/191/6097.html'>Hangyu Mao</a> at Sensetime Research.
 
 [//]: # (op international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> &#40;You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>&#41;)
 
