@@ -79,7 +79,7 @@ Jiaming Lu, Jingqing Ruan, **Haoyuan Jiang**, Ziyue Li, Hangyu Mao, Rui Zhao. \\
 
 # 🎖 Honors and Awards
 - *2017*, 14th National Graduate Mathematical Modeling Competition, Second Prize.
-- *2017*, Honor Student in IBM Innovation Cootcamp.
+- *2017*, Honor Student in IBM Innovation Bootcamp.
 - *2018*, 11th China College Students’ Entrepreneurship Competition, Bronze Award in Zhejiang Province.
 - *2022*, IJCAI 2022 - Neural MMO Challenge, Bronze Tier Award.
 - *2022*, Outstanding Individual of the Year in Sensetime SCG R&D Department.
