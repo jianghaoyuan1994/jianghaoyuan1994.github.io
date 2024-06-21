@@ -66,7 +66,7 @@ If you are interested with my experience or research. Please feel free to contac
 Jingqing Ruan, Ziyue Li, Hua Wei, **Haoyuan Jiang**, Jiaming Lu, Xuantang Xiong, Hangyu Mao, Rui Zhao. \\
 [[arxiv](https://arxiv.org/abs/2405.17152)]
 - **DuaLight: Enhancing Traffic Signal Control by Leveraging Scenario-Specific and Scenario-Shared Knowledge** \\
-*International Conference on Autonomous Agents and Multi-Agent Systems*(**AAMAS**), in auckland, new zealand, 2024. (**oral**) \\
+*International Conference on Autonomous Agents and Multi-Agent Systems*(**AAMAS**), in Auckland, New Zealand, 2024. (**Oral**) \\
 Jiaming Lu, Jingqing Ruan, **Haoyuan Jiang**, Ziyue Li, Hangyu Mao, Rui Zhao. \\
 [[arxiv](https://arxiv.org/abs/2312.14532)]
 
