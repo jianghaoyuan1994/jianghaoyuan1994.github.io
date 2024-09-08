@@ -19,7 +19,7 @@ redirect_from:
 
 Welcome to Haoyuan Jiang's Personal Homepage!
 
-Now, I am a senior algorithm engineer at Baidu Inc. Before that, i was a researcher at Sensetime. My research interest includes **Reinforcement Learning, General Agents and Embodied AI**, driven by a desire to contribute to building AGI algorithms. I worked closely with <a href='https://bonaldli.github.io'>Prof. Ziyue Li</a> at the University of Cologne and Principal Researcher <a href='https://maohangyu.github.io'>Hangyu Mao</a> at Sensetime Research.
+Now, I am a senior algorithm engineer at Baidu Inc. Before that, i was a researcher at Sensetime. My research interest includes **Reinforcement Learning, AI Agents and Embodied AI**, driven by a desire to contribute to building AGI algorithms. I worked closely with <a href='https://bonaldli.github.io'>Prof. Ziyue Li</a> at the University of Cologne and Researcher <a href='https://maohangyu.github.io'>Hangyu Mao</a>.
 
 [//]: # (op international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> &#40;You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>&#41;)
 
@@ -61,14 +61,15 @@ If you are interested with my experience or research. Please feel free to contac
 </div>
 </div>
 
-- **CoSLight: Co-optimizing Collaborator Selection and Decision-making to Enhance Traffic Signal Control** \\
+- **[CoSLight: Co-optimizing Collaborator Selection and Decision-making to Enhance Traffic Signal Control](https://arxiv.org/abs/2405.17152)** \\
 *ACM SIGKDD Conference on Knowledge Discovery and Data Mining*(**KDD**), in Barcelona, Spain, 2024. \\
 Jingqing Ruan, Ziyue Li, Hua Wei, **Haoyuan Jiang**, Jiaming Lu, Xuantang Xiong, Hangyu Mao, Rui Zhao. \\
-[[arxiv](https://arxiv.org/abs/2405.17152)]
-- **DuaLight: Enhancing Traffic Signal Control by Leveraging Scenario-Specific and Scenario-Shared Knowledge** \\
+- **[DuaLight: Enhancing Traffic Signal Control by Leveraging Scenario-Specific and Scenario-Shared Knowledge](https://arxiv.org/abs/2312.14532)** \\
 *International Conference on Autonomous Agents and Multi-Agent Systems*(**AAMAS**), in Auckland, New Zealand, 2024. (**Oral**) \\
 Jiaming Lu, Jingqing Ruan, **Haoyuan Jiang**, Ziyue Li, Hangyu Mao, Rui Zhao. \\
-[[arxiv](https://arxiv.org/abs/2312.14532)]
+
+# 🧑‍🎨 Preprint
+- [GuideLight: "Industrial Solution" Guidance for More Practical Traffic Signal Control Agents]( https://arxiv.org/abs/2407.10811). **Haoyuan Jiang**, Xuantang Xiong, Ziyue Li, Hangyu Mao, Guanghu Sui, Jingqing Ruan, Yuheng Cheng, Hua Wei, Wolfgang Ketter, Rui Zhao.
 
 # 📖 Educations
 - *2017.09 - 2019.06*, Master in Software Engineering, Zhejiang University.
@@ -76,6 +77,10 @@ Jiaming Lu, Jingqing Ruan, **Haoyuan Jiang**, Ziyue Li, Hangyu Mao, Rui Zhao. \\
 # 💻 Work and Research Experience
 - *2023.09 - Present*, Baidu Inc., China.
 - *2019.07 - 2023.09*, Sensetime Research, China.
+
+# 🌠 Services
+**Program Committee Member or Reviewer**:
+- International Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)
 
 # 🎖 Honors and Awards
 - *2017*, 14th National Graduate Mathematical Modeling Competition, Second Prize.
