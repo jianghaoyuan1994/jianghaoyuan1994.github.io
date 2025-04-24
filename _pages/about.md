@@ -78,9 +78,11 @@ Jiaming Lu, Jingqing Ruan, **Haoyuan Jiang**, Ziyue Li, Hangyu Mao, Rui Zhao. \\
 - *2023.09 - Present*, Baidu Inc., China.
 - *2019.07 - 2023.09*, Sensetime Research, China.
 
-# 🌠 Services
+# 🌠 Selected Services
 **Program Committee Member or Reviewer**:
-- International Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)
+- Conference on Neural Information Processing Systems (**NeurIPS 2025**)
+- International Joint Conference on Artificial Intelligence (**IJCAI 2025**)
+- International Conference on Autonomous Agents and Multiagent Systems (**AAMAS 2025**)
 
 # 🎖 Honors and Awards
 - *2017*, 14th National Graduate Mathematical Modeling Competition, Second Prize.
@@ -88,6 +90,7 @@ Jiaming Lu, Jingqing Ruan, **Haoyuan Jiang**, Ziyue Li, Hangyu Mao, Rui Zhao. \\
 - *2018*, 11th China College Students’ Entrepreneurship Competition, Bronze Award in Zhejiang Province.
 - *2022*, IJCAI 2022 - Neural MMO Challenge, Bronze Tier Award.
 - *2022*, Outstanding Individual of the Year in Sensetime SCG R&D Department.
+- *2024*, Outstanding AIT Project in Baidu Inc. 
 
 
 [//]: # (# 💬 Invited Talks)
