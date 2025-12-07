@@ -19,11 +19,16 @@ redirect_from:
 
 Welcome to Haoyuan Jiang's Personal Homepage!
 
-Now, I am a senior algorithm engineer at Baidu Inc. Before that, i was a researcher at Sensetime. My research interest includes **Reinforcement Learning, AI Agents and Embodied AI**, driven by a desire to contribute to building AGI algorithms. I worked closely with <a href='https://bonaldli.github.io'>Prof. Ziyue Li</a> at the University of Cologne and Researcher <a href='https://maohangyu.github.io'>Hangyu Mao</a>.
+I am a senior algorithm engineer at Baidu Inc, where focusing on using reinforcement learning to improve model capabilities and performance, which has been used in autonomous driving and foundation models. Before that, i was a researcher at Sensetime. 
+
+My research interest includes **Reinforcement Learning, LLM Reasoning, AI Agents and Embodied AI**, with a long-term goal of contributing to the development of **AGI**. I am particularly interested in building autonomous agents capable of reasoning, adaptation, and generalization across diverse environments. 
+
+
+<!-- I worked closely with <a href='https://bonaldli.github.io'>Prof. Ziyue Li</a> at the University of Cologne and Researcher <a href='https://maohangyu.github.io'>Hangyu Mao</a>. -->
 
 [//]: # (op international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> &#40;You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>&#41;)
 
-In my experiences, I have been investigating how to enable autonomous agents to learn, make decisions in complex environments, and apply them in reality. This includes developing new reinforcement learning algorithms that allow agents to cooperate, easily adapt to new environments and meet industry requirements.
+<!-- In my experiences, I have been investigating how to enable autonomous agents to learn, make decisions in complex environments, and apply them in reality. This includes developing new reinforcement learning algorithms that allow agents to cooperate, easily adapt to new environments and meet industry requirements. -->
 
 If you are interested with my experience or research. Please feel free to contact with me! 
 
