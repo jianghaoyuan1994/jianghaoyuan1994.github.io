@@ -40,6 +40,7 @@ If you are interested in my research or experience, please feel free to contact 
 - *2024.05*: &nbsp;🎉🎉 One paper is accepted by **KDD 2024**.
 - *2024.04*: &nbsp;🎉🎉 One **first-author** paper is accepted by **IJCAI 2024**.
 - *2024.02*: &nbsp;🎉🎉 One **first-author** paper is accepted by **IEEE TITS**.
+
 <!-- - *2023.12*: &nbsp;🎉🎉 One paper is accepted by **AAMAS 2024**.
 - *2023.09*: &nbsp;💼🚀 I joined **Baidu Inc.**. -->
 
@@ -54,7 +55,7 @@ If you are interested in my research or experience, please feel free to contact 
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=86wzq9oAAAAJ&citation_for_view=86wzq9oAAAAJ:2osOgNQ5qMEC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose a reinforcement learning algorithm for the multiple traffic signals control field that has good generalization and transferability while achieving SOTA performance. 
-- [code](https://github.com/jianghaoyuan1994/X-Light)
+<!-- - [code](https://github.com/jiang-haoyuan/X-Light) -->
 </div>
 </div>
 
@@ -67,7 +68,7 @@ If you are interested in my research or experience, please feel free to contact 
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=86wzq9oAAAAJ&citation_for_view=86wzq9oAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We proposed a reinforcement learning algorithm for the traffic signal control field, which can easily cope with different scenarios and various types of intersections. Through training in large-scale scenarios, we found that the performance has been significantly improved and has strong generalization.
-- [code](https://github.com/jianghaoyuan1994/GESA)
+<!-- - [code](https://github.com/jiang-haoyuan/GESA) -->
 </div>
 </div>
 
