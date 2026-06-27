@@ -19,9 +19,11 @@ redirect_from:
 
 Welcome to Haoyuan Jiang's Personal Homepage!
 
-I am a senior algorithm engineer at Baidu Inc, where focusing on using reinforcement learning to improve model capabilities and performance, which has been used in autonomous driving and foundation models. Before that, i was a researcher at Sensetime. 
+I am currently a Ph.D. student at the Technical University of Munich (TUM), where I also work as a Research Assistant. I build AI algorithms at the intersection of reinforcement learning, large foundation models and autonomous agents.
 
-My research interest includes **Reinforcement Learning, LLM Reasoning, AI Agents and Embodied AI**, with a long-term goal of contributing to the development of **AGI**. I am particularly interested in building autonomous agents capable of reasoning, adaptation, and generalization across diverse environments. 
+Before joining TUM, I worked as an Algorithm Expert at Alibaba Group and as a Senior Algorithm Engineer at Baidu, focusing on using reinforcement learning to improve model capabilities and performance, which has been used in large foundation models (Qwen and Ernie) and end2end autonomous driving.
+
+I am particularly interested in building autonomous agents capable of reasoning, adaptation, self-improvement and generalization across diverse environments, with a long-term goal of contributing to the development of **AGI**. My research interests include **Reinforcement Learning, General Agentic AI, LLM Reasoning and World model**.
 
 
 <!-- I worked closely with <a href='https://bonaldli.github.io'>Prof. Ziyue Li</a> at the University of Cologne and Researcher <a href='https://maohangyu.github.io'>Hangyu Mao</a>. -->
@@ -30,15 +32,18 @@ My research interest includes **Reinforcement Learning, LLM Reasoning, AI Agents
 
 <!-- In my experiences, I have been investigating how to enable autonomous agents to learn, make decisions in complex environments, and apply them in reality. This includes developing new reinforcement learning algorithms that allow agents to cooperate, easily adapt to new environments and meet industry requirements. -->
 
-If you are interested with my experience or research. Please feel free to contact with me! 
+If you are interested in my research or experience, please feel free to contact me!
 
-# 🔥 News
-- *2024.05*: &nbsp;🎉🎉 One paper is accepted by **KDD 2024**!
-- *2024.04*: &nbsp;🎉🎉 One **first-author** paper is accepted by **IJCAI 2024**!
-- *2024.02*: &nbsp;🎉🎉 One **first-author** paper is accepted by **IEEE TITS**!
-- *2023.12*: &nbsp;🎉🎉 One paper is accepted by **AAMAS 2024**!
+# News
+- *2026.06*: &nbsp;🎓🚀 I started a new journey as a Ph.D. student at **TUM**!
+- *2026.02*: &nbsp;💼🚀 I joined **Alibaba Group**.
+- *2024.05*: &nbsp;🎉🎉 One paper is accepted by **KDD 2024**.
+- *2024.04*: &nbsp;🎉🎉 One **first-author** paper is accepted by **IJCAI 2024**.
+- *2024.02*: &nbsp;🎉🎉 One **first-author** paper is accepted by **IEEE TITS**.
+<!-- - *2023.12*: &nbsp;🎉🎉 One paper is accepted by **AAMAS 2024**.
+- *2023.09*: &nbsp;💼🚀 I joined **Baidu Inc.**. -->
 
-# 📝 Publications 
+# Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/main_fig_v8.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -73,23 +78,26 @@ Jingqing Ruan, Ziyue Li, Hua Wei, **Haoyuan Jiang**, Jiaming Lu, Xuantang Xiong,
 *International Conference on Autonomous Agents and Multi-Agent Systems*(**AAMAS**), in Auckland, New Zealand, 2024. (**Oral**) \\
 Jiaming Lu, Jingqing Ruan, **Haoyuan Jiang**, Ziyue Li, Hangyu Mao, Rui Zhao. \\
 
-# 🧑‍🎨 Preprint
+# Preprint
 - [GuideLight: "Industrial Solution" Guidance for More Practical Traffic Signal Control Agents]( https://arxiv.org/abs/2407.10811). **Haoyuan Jiang**, Xuantang Xiong, Ziyue Li, Hangyu Mao, Guanghu Sui, Jingqing Ruan, Yuheng Cheng, Hua Wei, Wolfgang Ketter, Rui Zhao.
 
-# 📖 Educations
+# Educations
+- *2026.06 - Present*, Ph.D. in RL & ML, TUM, Germany.
 - *2017.09 - 2019.06*, Master in Software Engineering, Zhejiang University.
 
-# 💻 Work and Research Experience
-- *2023.09 - Present*, Baidu Inc., China.
-- *2019.07 - 2023.09*, Sensetime Research, China.
+# Work and Research Experience
+- *2026.06 - Present*, Research Assistant, TUM, Germany.
+- *2026.02 - 2026.04*, Algorithm Expert, Alibaba, China.
+- *2023.09 - 2026.01*, Senior Algorithm Engineer, Baidu Inc., China.
+<!-- - *2019.07 - 2023.09*, Sensetime Research, China. -->
 
-# 🌠 Selected Services
+# Selected Services
 **Program Committee Member or Reviewer**:
-- Conference on Neural Information Processing Systems (**NeurIPS 2025**)
-- International Joint Conference on Artificial Intelligence (**IJCAI 2025**)
-- International Conference on Autonomous Agents and Multiagent Systems (**AAMAS 2025**)
+- Conference on Neural Information Processing Systems (**NeurIPS 2025, 2026**)
+- International Joint Conference on Artificial Intelligence (**IJCAI 2025, 2026**)
+- International Conference on Autonomous Agents and Multiagent Systems (**AAMAS 2025, 2026**)
 
-# 🎖 Honors and Awards
+# Honors and Awards
 - *2017*, 14th National Graduate Mathematical Modeling Competition, Second Prize.
 - *2017*, Honor Student in IBM Innovation Bootcamp.
 - *2018*, 11th China College Students’ Entrepreneurship Competition, Bronze Award in Zhejiang Province.
