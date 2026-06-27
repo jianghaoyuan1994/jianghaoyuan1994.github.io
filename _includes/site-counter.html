@@ -1,0 +1,64 @@
+{% if site.analytics_provider == "goatcounter" and site.goatcounter_code and site.goatcounter_code != "" %}
+  {% assign goatcounter_endpoint = "https://" | append: site.goatcounter_code | append: ".goatcounter.com" %}
+  {% if site.goatcounter_show_counter %}
+    <div class="site-counter" id="site-counter" hidden>
+      <span>Site visits: <span id="goatcounter-site-pv">--</span></span>
+      <span class="site-counter__sep">/</span>
+      <span>Page views: <span id="goatcounter-page-pv">--</span></span>
+    </div>
+  {% endif %}
+  <script>
+    (function() {
+      var analyticsDomain = "{{ site.analytics_domain }}";
+      var isProductionDomain = !analyticsDomain || window.location.hostname === analyticsDomain;
+
+      var counter = document.getElementById("site-counter");
+      if (counter) {
+        counter.hidden = false;
+      }
+
+      var endpoint = "{{ goatcounter_endpoint }}";
+      if (isProductionDomain) {
+        var script = document.createElement("script");
+        script.async = true;
+        script.src = "https://gc.zgo.at/count.js";
+        script.setAttribute("data-goatcounter", endpoint + "/count");
+        document.body.appendChild(script);
+      }
+
+      {% if site.goatcounter_show_counter %}
+      function setCounter(id, path) {
+        fetch(endpoint + "/counter/" + encodeURIComponent(path) + ".json")
+          .then(function(response) { return response.ok ? response.json() : null; })
+          .then(function(data) {
+            if (data && data.count) {
+              document.getElementById(id).textContent = data.count;
+            }
+          })
+          .catch(function() {});
+      }
+
+      setCounter("goatcounter-site-pv", "TOTAL");
+      setCounter("goatcounter-page-pv", "/");
+      {% endif %}
+    })();
+  </script>
+{% elsif site.analytics_provider == "umami" and site.umami_script_url and site.umami_script_url != "" and site.umami_website_id and site.umami_website_id != "" %}
+  <script>
+    (function() {
+      var analyticsDomain = "{{ site.analytics_domain }}";
+      if (analyticsDomain && window.location.hostname !== analyticsDomain) {
+        return;
+      }
+
+      var script = document.createElement("script");
+      script.defer = true;
+      script.src = "{{ site.umami_script_url }}";
+      script.setAttribute("data-website-id", "{{ site.umami_website_id }}");
+      if (analyticsDomain) {
+        script.setAttribute("data-domains", analyticsDomain);
+      }
+      document.body.appendChild(script);
+    })();
+  </script>
+{% endif %}

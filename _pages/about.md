@@ -32,7 +32,7 @@ I am particularly interested in building autonomous agents capable of reasoning,
 
 <!-- In my experiences, I have been investigating how to enable autonomous agents to learn, make decisions in complex environments, and apply them in reality. This includes developing new reinforcement learning algorithms that allow agents to cooperate, easily adapt to new environments and meet industry requirements. -->
 
-If you are interested in my research or experience, please feel free to contact me!
+If you are interested in my research or experiences, please feel free to contact me!
 
 # News
 - *2026.06*: &nbsp;🎓🚀 I started a new journey as a Ph.D. student at **TUM**!
@@ -46,50 +46,96 @@ If you are interested in my research or experience, please feel free to contact 
 
 # Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/main_fig_v8.pdf' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- <span class="pub-badge">IJCAI</span> **[X-Light: Cross-City Traffic Signal Control Using Transformer on Transformer as Meta Multi-Agent Reinforcement Learner](https://www.ijcai.org/proceedings/2024/11)**<br>
+**Haoyuan Jiang**, Ziyue Li, Hua Wei, Xuantang Xiong, Jingqing Ruan, Jiaming Lu, Hangyu Mao, Rui Zhao.<br>
+*International Joint Conference on Artificial Intelligence*(**IJCAI**), 2024. (**Oral**)<br>
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=86wzq9oAAAAJ&citation_for_view=86wzq9oAAAAJ:2osOgNQ5qMEC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong><br>
+We propose a reinforcement learning algorithm for the multiple traffic signals control field that has good generalization and transferability while achieving SOTA performance. -->
+<details class="bibtex">
+<summary>Bib</summary>
+<pre><code>@inproceedings{ijcai2024p11,
+  title = {X-Light: Cross-City Traffic Signal Control Using Transformer on Transformer as Meta Multi-Agent Reinforcement Learner},
+  author = {Jiang, Haoyuan and Li, Ziyue and Wei, Hua and Xiong, Xuantang and Ruan, Jingqing and Lu, Jiaming and Mao, Hangyu and Zhao, Rui},
+  booktitle = {Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence, {IJCAI-24}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  editor = {Larson, Kate},
+  pages = {94--102},
+  year = {2024},
+  month = {8},
+  note = {Main Track},
+  doi = {10.24963/ijcai.2024/11},
+  url = {https://doi.org/10.24963/ijcai.2024/11}
+}</code></pre>
+</details>
 
-[X-Light: Cross-City Traffic Signal Control Using Transformer on Transformer as Meta Multi-Agent Reinforcement Learner](https://arxiv.org/abs/2404.12090)
+- <span class="pub-badge">TITS</span> **[A General Scenario-Agnostic Reinforcement Learning for Traffic Signal Control](https://ieeexplore.ieee.org/abstract/document/10481508/)**<br>
+**Haoyuan Jiang**, Ziyue Li, Zhishuai Li, Lei Bai, Hangyu Mao, Wolfgang Ketter, Rui Zhao.<br>
+*IEEE Transactions on Intelligent Transportation Systems*(**IEEE TITS**), 2024.<br>
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=86wzq9oAAAAJ&citation_for_view=86wzq9oAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong><br>
+We proposed a reinforcement learning algorithm for the traffic signal control field, which can easily cope with different scenarios and various types of intersections. Through training in large-scale scenarios, we found that the performance has been significantly improved and has strong generalization. -->
+<details class="bibtex">
+<summary>Bib</summary>
+<pre><code>@article{jiang2024general,
+  title = {A General Scenario-Agnostic Reinforcement Learning for Traffic Signal Control},
+  author = {Jiang, Haoyuan and Li, Ziyue and Li, Zhishuai and Bai, Lei and Mao, Hangyu and Ketter, Wolfgang and Zhao, Rui},
+  journal = {IEEE Transactions on Intelligent Transportation Systems},
+  year = {2024},
+  url = {https://ieeexplore.ieee.org/abstract/document/10481508/}
+}</code></pre>
+</details>
 
-**Haoyuan Jiang**, Ziyue Li, Hua Wei, Xuantang Xiong, Jingqing Ruan, Jiaming Lu, Hangyu Mao, Rui Zhao.
+- <span class="pub-badge">KDD</span> **[CoSLight: Co-optimizing Collaborator Selection and Decision-making to Enhance Traffic Signal Control](https://dl.acm.org/doi/10.1145/3637528.3671998)**<br>
+Jingqing Ruan, Ziyue Li, Hua Wei, **Haoyuan Jiang**, Jiaming Lu, Xuantang Xiong, Hangyu Mao, Rui Zhao.<br>
+*ACM SIGKDD Conference on Knowledge Discovery and Data Mining*(**KDD**), in Barcelona, Spain, 2024. (**Oral**)<br>
+<details class="bibtex">
+<summary>Bib</summary>
+<pre><code>@inproceedings{ruan2024coslight,
+  title = {CoSLight: Co-optimizing Collaborator Selection and Decision-making to Enhance Traffic Signal Control},
+  author = {Ruan, Jingqing and Li, Ziyue and Wei, Hua and Jiang, Haoyuan and Lu, Jiaming and Xiong, Xuantang and Mao, Hangyu and Zhao, Rui},
+  booktitle = {Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+  year = {2024},
+  doi = {10.1145/3637528.3671998},
+  url = {https://dl.acm.org/doi/10.1145/3637528.3671998}
+}</code></pre>
+</details>
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=86wzq9oAAAAJ&citation_for_view=86wzq9oAAAAJ:2osOgNQ5qMEC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We propose a reinforcement learning algorithm for the multiple traffic signals control field that has good generalization and transferability while achieving SOTA performance. 
-<!-- - [code](https://github.com/jiang-haoyuan/X-Light) -->
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TITS</div><img src='images/model-structure.pdf' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A General Scenario-Agnostic Reinforcement Learning for Traffic Signal Control](https://ieeexplore.ieee.org/abstract/document/10481508/)
-
-**Haoyuan Jiang**, Ziyue Li, Zhishuai Li, Lei Bai, Hangyu Mao, Wolfgang Ketter, Rui Zhao.
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=86wzq9oAAAAJ&citation_for_view=86wzq9oAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We proposed a reinforcement learning algorithm for the traffic signal control field, which can easily cope with different scenarios and various types of intersections. Through training in large-scale scenarios, we found that the performance has been significantly improved and has strong generalization.
-<!-- - [code](https://github.com/jiang-haoyuan/GESA) -->
-</div>
-</div>
-
-- **[CoSLight: Co-optimizing Collaborator Selection and Decision-making to Enhance Traffic Signal Control](https://arxiv.org/abs/2405.17152)** \\
-*ACM SIGKDD Conference on Knowledge Discovery and Data Mining*(**KDD**), in Barcelona, Spain, 2024. \\
-Jingqing Ruan, Ziyue Li, Hua Wei, **Haoyuan Jiang**, Jiaming Lu, Xuantang Xiong, Hangyu Mao, Rui Zhao. \\
-- **[DuaLight: Enhancing Traffic Signal Control by Leveraging Scenario-Specific and Scenario-Shared Knowledge](https://arxiv.org/abs/2312.14532)** \\
-*International Conference on Autonomous Agents and Multi-Agent Systems*(**AAMAS**), in Auckland, New Zealand, 2024. (**Oral**) \\
-Jiaming Lu, Jingqing Ruan, **Haoyuan Jiang**, Ziyue Li, Hangyu Mao, Rui Zhao. \\
+- <span class="pub-badge">AAMAS</span> **[DuaLight: Enhancing Traffic Signal Control by Leveraging Scenario-Specific and Scenario-Shared Knowledge](https://dl.acm.org/doi/10.5555/3635637.3662986)**<br>
+Jiaming Lu, Jingqing Ruan, **Haoyuan Jiang**, Ziyue Li, Hangyu Mao, Rui Zhao.<br>
+*International Conference on Autonomous Agents and Multi-Agent Systems*(**AAMAS**), in Auckland, New Zealand, 2024. (**Oral**)<br>
+<details class="bibtex">
+<summary>Bib</summary>
+<pre><code>@inproceedings{lu2024dualight,
+  title = {DuaLight: Enhancing Traffic Signal Control by Leveraging Scenario-Specific and Scenario-Shared Knowledge},
+  author = {Lu, Jiaming and Ruan, Jingqing and Jiang, Haoyuan and Li, Ziyue and Mao, Hangyu and Zhao, Rui},
+  booktitle = {Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems},
+  year = {2024},
+  doi = {10.5555/3635637.3662986},
+  url = {https://dl.acm.org/doi/10.5555/3635637.3662986}
+}</code></pre>
+</details>
 
 # Preprint
-- [GuideLight: "Industrial Solution" Guidance for More Practical Traffic Signal Control Agents]( https://arxiv.org/abs/2407.10811). **Haoyuan Jiang**, Xuantang Xiong, Ziyue Li, Hangyu Mao, Guanghu Sui, Jingqing Ruan, Yuheng Cheng, Hua Wei, Wolfgang Ketter, Rui Zhao.
+- <span class="pub-badge">arXiv</span> [GuideLight: "Industrial Solution" Guidance for More Practical Traffic Signal Control Agents]( https://arxiv.org/abs/2407.10811). **Haoyuan Jiang**, Xuantang Xiong, Ziyue Li, Hangyu Mao, Guanghu Sui, Jingqing Ruan, Yuheng Cheng, Hua Wei, Wolfgang Ketter, Rui Zhao.
+<details class="bibtex">
+<summary>Bib</summary>
+<pre><code>@article{jiang2024guidelight,
+  title = {GuideLight: "Industrial Solution" Guidance for More Practical Traffic Signal Control Agents},
+  author = {Jiang, Haoyuan and Xiong, Xuantang and Li, Ziyue and Mao, Hangyu and Sui, Guanghu and Ruan, Jingqing and Cheng, Yuheng and Wei, Hua and Ketter, Wolfgang and Zhao, Rui},
+  journal = {arXiv preprint arXiv:2407.10811},
+  year = {2024},
+  url = {https://arxiv.org/abs/2407.10811}
+}</code></pre>
+</details>
 
 # Educations
 - *2026.06 - Present*, Ph.D. in RL & ML, TUM, Germany.
 - *2017.09 - 2019.06*, Master in Software Engineering, Zhejiang University.
 
-# Work and Research Experience
+# Experiences
 - *2026.06 - Present*, Research Assistant, TUM, Germany.
 - *2026.02 - 2026.04*, Algorithm Expert, Alibaba, China.
 - *2023.09 - 2026.01*, Senior Algorithm Engineer, Baidu Inc., China.
+- *2018.07 - 2018.11*, Research Intern, Bytedance AI Lab., China.
 <!-- - *2019.07 - 2023.09*, Sensetime Research, China. -->
 
 # Selected Services

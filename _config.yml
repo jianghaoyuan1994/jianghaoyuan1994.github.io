@@ -14,6 +14,16 @@ google_scholar_stats_use_cdn : true
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
+# Privacy-friendly analytics.
+# GoatCounter is recommended for this static homepage because it can also show
+# a small page/site counter at the bottom of the page.
+analytics_provider       : "goatcounter" # "goatcounter", "umami", or empty
+analytics_domain         : "jiang-haoyuan.github.io"
+goatcounter_code         : "jiang-haoyuan" # e.g., "your-site-code" for https://your-site-code.goatcounter.com
+goatcounter_show_counter : true
+umami_script_url         :  # e.g., "https://cloud.umami.is/script.js"
+umami_website_id         :  # e.g., "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
