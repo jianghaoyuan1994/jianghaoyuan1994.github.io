@@ -135,7 +135,7 @@ Jiaming Lu, Jingqing Ruan, **Haoyuan Jiang**, Ziyue Li, Hangyu Mao, Rui Zhao.<br
 - *2026.06 - Present*, Research Assistant, TUM, Germany.
 - *2026.02 - 2026.04*, Algorithm Expert, Alibaba, China.
 - *2023.09 - 2026.01*, Senior Algorithm Engineer, Baidu Inc., China.
-- *2018.07 - 2018.11*, Research Intern, Bytedance AI Lab., China.
+- *2018.07 - 2018.11*, Research Intern, Bytedance AI Lab, China.
 <!-- - *2019.07 - 2023.09*, Sensetime Research, China. -->
 
 # Selected Services
