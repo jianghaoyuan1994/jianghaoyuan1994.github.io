@@ -23,7 +23,7 @@ I am currently a Ph.D. student at the Technical University of Munich (TUM), wher
 
 Before joining TUM, I worked as an Algorithm Expert at Alibaba Group and as a Senior Algorithm Engineer at Baidu, focusing on using reinforcement learning to improve model capabilities and performance, which has been used in large foundation models (Qwen and Ernie) and end2end autonomous driving.
 
-I am particularly interested in building autonomous agents capable of reasoning, adaptation, self-improvement and generalization across diverse environments, with a long-term goal of contributing to the development of **AGI**. My research interests include **Reinforcement Learning, General Agentic AI, LLM Reasoning and World model**.
+I am particularly interested in building autonomous agents capable of reasoning, adaptation, self-improvement and generalization across diverse environments, with a long-term goal of contributing to the development of **AGI**. My research interests include **Reinforcement Learning, General Agentic AI, LLM Reasoning and World Model**.
 
 
 <!-- I worked closely with <a href='https://bonaldli.github.io'>Prof. Ziyue Li</a> at the University of Cologne and Researcher <a href='https://maohangyu.github.io'>Hangyu Mao</a>. -->
